@@ -80,7 +80,7 @@ In the visualization below, the average trip duration by birth year is examined 
 
 ![](Resources/avg_trip_duration.jpg)
 
-In the visualization below, the trip durations are further examined. The line graph shows that most of the users are not utilizing the bicycles for trips longer than one hour, with a massive peak around five minutes in length. 
+In the visualization below, the trip durations are further examined. The line graph shows that most of the users are utilizing the bicycles for trips one hour long or less, with a massive peak around five minutes in length. 
 
 ![](Resources/trip_duration_usage.jpg)
 
