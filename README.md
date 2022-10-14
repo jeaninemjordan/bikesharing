@@ -10,10 +10,11 @@ Bike sharing programs have risen in popularity across the United States since th
 
 The purpose of this project is to prepare a visual analysis of NYC CitiBike data for potential investors interested in implementing a similar bike-sharing program in Des Moines, Iowa. The data chosen for this analysis was from the month of August, a historically busy month for business with Citibike, from the year 2019 in New York City, New York. 
 
-Tableau was used to create a presentation containing visualizations that answered some of the following questions:
-•	Who uses bike-sharing programs? 
-•	What areas of the city have the most and least Citibike activity?
-•	When and how often are bikes used and who is using them?
+Aggregated data from 2,344,224 Citibike users is explored to answer the questions below in a Tableau presentation to answer the following questions:
+
+* Who uses bike-sharing programs? 
+* What areas of the city have the most and least Citibike activity?
+* When and how often are bikes used and who is using them?
 
 With these questions answered, observations can be made and applied to the Citibike’s potential bike-sharing program in Des Moines, IA, or any other city, to ensure its implementation is successful. 
 
@@ -31,9 +32,8 @@ A link to the Tableau presentation is below:
 #### Software:
 
 * Tableau 2022.2.1
-* Python 3.7.6
-* Jupyter Notebook (Version)
-* Pandas library
+* Python 3.7.6 (Dependencies: Pandas)
+* Jupyter Notebook 6.4.8
 
 ### Results
 
@@ -42,13 +42,19 @@ To conduct the necessary analysis, the original dataset required a column to be 
 A screenshot of the code written to do this is below:
 ![](Resources/code.jpg) 
 
-In the first visualization below, customer types are explored where it is observed that eighty-one percent of the customer base are monthly or yearly subscribers of the Citibike program.  The remaining nineteen percent are customers, utilizing rental bikes as needed without a subscription. 
+In the visualization below, reported customer types are explored where it is observed that eighty-one percent of the customer base (1,900,359 users) are monthly or yearly subscribers of the Citibike program. The remaining nineteen percent are customers (443,865 users), utilizing rental bikes as needed without a subscription. Additionally explored is the gender breakdown of the reported Citibike users. Sixty-five percent of the customer base are male identifying users (1,530,272 users), making up the majority of the reported Citibike utilization in NYC for the month of August. Twenty-five percent of the customer base are female identifying users (588,431 users) and the reamining seven percent of users are of an unknown or unreported gender (225,521 users). 
 
 ![](Resources/customer_description.jpg) 
 
-In the visualization below, the beginning and ending destinations are examined to determine where the highest and lowest traffic areas for Citibike are located. Manhattan is a densely populated area of New York City for tourism as well as for bustling residential and commercial properties. The Manhattan area of NYC clearly experiences the highest rental bike traffic in comparison to the adjacent neighborhoods. The bubbles on the visualization below represent different Citibike stations and differentiate in size and color depending on their traffic.
+In the visualization below, the beginning and ending destinations are examined to determine where the highest and lowest traffic areas for Citibike are located. Manhattan is a densely populated area of New York City for tourism as well as for bustling residential and commercial properties. The Manhattan area of NYC clearly experiences the highest rental bike traffic in comparison to the adjacent neighborhoods. The bubbles on the visualization below represent different Citibike stations and differentiate in size and color depending on their traffic. 
 
-![](Resources/starting_locations.jpg) ![](Resources/ending_locations.jpg) 
+#### Starting Locations:
+
+![](Resources/starting_locations.jpg) 
+
+#### Ending Locations:
+
+![](Resources/ending_locations.jpg) 
 
 In the visualization below, the peak hours of bicycle usage are explored. The times of the day with the highest level of usage can be attributed to the morning and evening weekday rush hours. Due to the low usage reports from two a.m. to five a.m., maintenance related tasks could be scheduled to be conducted during this time. 
 
