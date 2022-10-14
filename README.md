@@ -66,7 +66,7 @@ In the visualization below, each individual square on the map represents an indi
 
 In the visualization below, heatmaps display the weekly usage patterns by hour. The highest levels of usage are observed to be during weekday morning and evening commute times, as well as spread out throughout weekend afternoons. 
 
-![](Resources/trips_per_hour_weekday.jpg) 
+![](Resources/Trips_per_hour_weekday.jpg) 
 
 In the heatmap visualization below, utilization patterns by the hour of the day and day of week are also examined by gender. Once again, a correlation between weekday commute times and weekend afternoons is observed; however, in this depiction of the data reported it is seen that the male customers make up the bulk of the CitiBike customer base in NYC in comparison to female identifying and unknown or undisclosed users. 
 
