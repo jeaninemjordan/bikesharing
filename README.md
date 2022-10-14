@@ -37,7 +37,7 @@ A link to the Tableau presentation is below:
 
 ### Results
 
-To conduct the necessary analysis, the original dataset required a column to be converted from an integer value to an expression of time. This was accomplished by using Python, the Pandas dependencies and the text editor, Jupyter Notebook. An updated dataset was subsequently created. 
+To conduct the necessary analysis, the original dataset required a column to be converted from an integer value to an expression of time. This was accomplished by using Python, the Pandas dependency and the text editor, Jupyter Notebook. An updated dataset was subsequently created. 
 
 A screenshot of the code written to do this is below:
 ![](Resources/code.jpg) 
