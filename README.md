@@ -76,7 +76,7 @@ In the heatmap visualization below, utilization patterns by the day of the week 
 
 ![](Resources/trips_by_weekday_user_gender.jpg)
 
-In the visualization below, the average trip duration by birth year is examined to show the ages of the subscribers and customers utilizing Citibike bicycles and their average biking times. The trend line implies the duration of the trip increases the younger the customer or subscriber is. The spikes in years prior to 1975 should be further analyzed to rule out anomalous data.   
+In the visualization below, the average trip duration by birth year is examined to show the ages of the subscribers and customers utilizing Citibike bicycles and their average biking times. The trend line implies the duration of the trip increases the younger the customer or subscriber is. The data is presented using the data as reported; however, the spikes in years prior to 1975 should be further analyzed to rule out anomalous or erroneous data.   
 
 ![](Resources/avg_trip_duration.jpg)
 
