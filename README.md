@@ -60,7 +60,7 @@ In the visualization below, the peak hours of bicycle usage are explored. The ti
 
 ![](Resources/peak_hours_of_usage.jpg) 
 
-In the visualization below, each individual square on the map represents an individual Citibike utilized. The colors and sizes of the squares show the level of usage each bike receives which can be used to implement a maintenance schedule for the bikes receiving the most usage.
+In the visualization below, each individual square on the map represents an individual Citibike utilized. The colors and sizes of the squares show the level of usage each bike receives which can be used to implement a maintenance schedule for the bikes receiving the most utilization.
 
 ![](Resources/bike_repairs.jpg) 
 
