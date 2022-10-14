@@ -39,7 +39,7 @@ A link to the Tableau presentation is below:
 
 To conduct the necessary analysis, the original dataset required a column to be converted from an integer value to an expression of time. This was accomplished by using Python, the Pandas dependency and the text editor, Jupyter Notebook. An updated dataset was subsequently created. 
 
-A screenshot of the code written to do this is below:
+A screenshot of the Python code written to do this is below:
 ![](Resources/code.jpg) 
 
 In the visualization below, reported customer types are explored where it is observed that eighty-one percent of the customer base (1,900,359 users) are monthly or yearly subscribers of the Citibike program. The remaining nineteen percent are customers (443,865 users), utilizing rental bikes as needed without a subscription. Additionally explored is the gender breakdown of the reported Citibike users. Sixty-five percent of the customer base are male identifying users (1,530,272 users), making up the majority of the reported Citibike utilization in NYC for the month of August. Twenty-five percent of the customer base are female identifying users (588,431 users) and the remaining seven percent of users are of an unknown or unreported gender (225,521 users). 
