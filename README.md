@@ -18,7 +18,8 @@ Tableau was used to create a presentation containing visualizations that answere
 With these questions answered, observations can be made and applied to the Citibike’s potential bike-sharing program in Des Moines, IA, or any other city, to ensure its implementation is successful. 
 
 A link to the Tableau presentation is below:
-[Tableau Presentation](https://public.tableau.com/app/profile/jeanine.jordan/viz/NYCCitiBikeAnalysisChallenge_16656381502750/NYCCitiBikeAnalysis?publish=yes)
+
+[CitiBike Tableau Presentation](https://public.tableau.com/app/profile/jeanine.jordan/viz/NYCCitiBikeAnalysisChallenge_16656381502750/NYCCitiBikeAnalysis?publish=yes)
 
 ### Resources
 
