@@ -46,7 +46,7 @@ In the visualization below, reported customer types are explored where it is obs
 
 ![](Resources/customer_description.jpg) 
 
-In the visualization below, the beginning and ending destinations are examined to determine where the highest and lowest traffic areas for Citibike are located. Manhattan is a densely populated area of New York City for tourism as well as for bustling residential and commercial properties. The Manhattan area of NYC clearly experiences the highest rental bike traffic in comparison to the adjacent neighborhoods. The bubbles on the visualization below represent different Citibike stations and differentiate in size and color depending on their traffic. 
+In the visualization below, the beginning and ending destinations are examined to determine where the highest and lowest traffic areas for Citibike are located. Manhattan is a densely populated area of New York City for tourism as well as for bustling residential and commercial activity. The Manhattan area of NYC clearly experiences the highest rental bike traffic in comparison to the adjacent neighborhoods. The bubbles on the visualization below represent different Citibike stations and differentiate in size and color depending on their traffic. 
 
 #### Starting Locations:
 
