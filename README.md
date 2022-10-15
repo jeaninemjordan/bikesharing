@@ -6,7 +6,7 @@
 
 ### Project overview
 
-Bike sharing programs have risen in popularity across the United States since the mid-2000s and offer their customers the convenience of bike rental options wherever there are in their cities. Programs generally include station-based bikes and payment systems that can be utilized with memberships and passes or per-hour usage fees. Bike sharing options benefit citizens due to their low cost, often being a cheaper option to car rentals or public transportation. In areas that attract tourism, bike sharing programs are popular ways to encourage visitors to explore the city all while exercising and enjoying the nature around them. Bike sharing programs offer cost efficient solutions to occasional bikers, tourists, and commuters who cannot travel with and store their personal bikes with them. 
+Bike sharing programs have risen in popularity across the United States since the mid-2000s and offer their customers the convenience of bike rental options wherever there are in their cities. Programs generally include station-based bikes and payment systems that can be utilized with memberships and passes or per-hour usage fees. Bike sharing options benefit citizens due to their low cost, often being a cheaper option to car rentals or public transportation. In areas that attract tourism, bike sharing programs are popular ways to encourage visitors to explore the city all while exercising and enjoying the nature around them. Bike sharing programs offer eco-friendly as well as cost efficient solutions to occasional bikers, tourists, and commuters who cannot travel with and store their personal bikes with them. 
 
 The purpose of this project is to prepare a visual analysis of NYC CitiBike data for potential investors interested in implementing a similar bike-sharing program in Des Moines, Iowa. The data chosen for this analysis was from the month of August, a historically busy month for business with Citibike, from the year 2019 in New York City, New York. 
 
@@ -60,7 +60,7 @@ In the visualization below, the peak hours of bicycle usage are explored. The ti
 
 ![](Resources/peak_hours_of_usage.jpg) 
 
-In the visualization below, each individual square on the map represents an individual Citibike utilized. The colors and sizes of the squares show the level of usage each bike receives which can be used to implement a maintenance schedule for the bikes receiving the most utilization.
+In the visualization below, each individual square on the map represents a Citibike bicycle utilized. The colors and sizes of the squares show the level of usage each bike receives which can be used to implement a maintenance schedule for the bikes receiving the most utilization.
 
 ![](Resources/bike_repairs.jpg) 
 
@@ -90,4 +90,4 @@ Also examined is the bicycle use by gender as well as by trip duration. In the v
 
 ### Conclusion
 
-In conclusion, demographics from Des Moine, Iowa as well as well as factors such as traffic and tourism would need to be analyzed and compared to the NYC dataset on a smaller scale to conduct a full-scale analysis. Additional analysis is needed to predict the potential success or lack thereof of a Citibike bike-sharing program implementation in Des Moines, IA. It would be beneficial to glean additional information from the NYC Citibike dataset in other seasons outside of summer to further examine utilization patterns. Using the data provided in this analysis, it can be predicted that Citibike will most likely be targeting male identifying clientele under the age of thirty commuting to and from work throughout the week in the metropolitan area of the city if the trends in Des Moines, IA mirror those in NYC at all. 
+In conclusion, demographics from Des Moine, Iowa as well as well as factors such as traffic and tourism would need to be analyzed and compared to the NYC dataset on a smaller scale to conduct a full-scale analysis. Additional analysis is needed to predict the potential success or lack thereof of a Citibike bike-sharing program implementation in Des Moines, IA. It would be beneficial to glean additional information from the NYC Citibike dataset in other seasons outside of summer to further examine utilization patterns. Using the data provided in this analysis, it can be predicted that Citibike will most likely be targeting male identifying clientele under the age of thirty commuting to and from work throughout the week in the metropolitan area of the city, if the trends in Des Moines, IA mirror those in NYC at all. 
