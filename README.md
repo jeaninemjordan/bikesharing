@@ -1,6 +1,6 @@
 # bikesharing
  
-## An analysis of NYC Citibike bike-sharing from August of 2019 using Tableau.
+## A visual analysis of NYC Citibike bike-sharing data from August of 2019 using Tableau.
 
 ![](Resources/citi_bike_image.jpg) 
 
